@@ -1,0 +1,10 @@
+1_Mathematics_Includes the study of such topics as quantity (number theory), structure (algebra), space (geometry), and change (analysis).
+2_Biology_Biology is a branch of science that deals with living organisms and their vital processes.
+3_Phics_a science that deals with matter and energy and their interactions.
+4_Astronomy_Astronomy is a natural science that studies celestial objects and phenomena.
+5_Chemistry_The branch of science that deals with the study of the composition and the physical and chemical properties of various forms of matter.
+6_History_History is the study of change over time, and it covers all aspects of human society.
+7_Philosophy_Philosophy is the study of general and fundamental questions, such as those about existence, reason, knowledge, values.
+8_Psychology_Psychology is the study of the mind and behavior.
+9_Economy_Economy is defined as the management of financial matters for a community, business or family.
+10_Anatomy_Anatomy is the branch of biology concerned with the study of the structure of organisms and their parts.
